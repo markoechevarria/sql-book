@@ -1,4 +1,4 @@
-# Part II — SQL
+# SQL
 
 SQL is the *lingua franca* of data. Every engine you touch (Postgres, Snowflake, BigQuery,
 Spark SQL, DuckDB, ClickHouse) speaks a dialect of it, and it is the one skill that survives
